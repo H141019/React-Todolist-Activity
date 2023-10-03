@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(9, 184, 194);
+}
+.App {
+  text-align: center;
+}
+.container {
+  background-color: lightgrey;
+  justify-content: center;
+  width: 60%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 18px;
+  justify-content: center;
+  align-items: center;
+}
+input[type="text"] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 30px 0;
+}
+
+.header {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+button {
+  width: 50%;
+  background-color: aqua;
+  color: black;
+  padding: 12px 20px;
+  margin: 8px;
+  border-radius: 8px;
+}
+
+/* new css */
+.List-Heading {
+  font-size: 40px;
+  color: white;
+  margin-left: 30px;
+}
+
+p {
+  display: flex;
+}
+
+.btn-primary {
+  width: 40%;
+  background-color: yellow;
+  border-radius: 8px;
+}
+
+.listData {
+  width: 50%;
+  height: 20px;
+  margin-top: 10px;
+  background-color: rgb(134, 134, 208);
+  border-radius: 8px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
